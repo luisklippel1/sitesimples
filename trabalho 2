@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Site Simples</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #f32b08d2;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Meu Site Simples</h1>
+    </header>
+    <div class="container">
+        <h2>Bem-vindo ao Meu Site!</h2>
+        <p>Este site contem uma lista .</p>
+    </div>
+<div> 
+    <h3>lista de jogos</h3>
+</div>
+    <ul>
+        <li> MARIO </li>
+            <li>zelda</li>
+            <li> god of war </li>            
+    </ul>
+    <div>
+    <p1> mario: Ao jogar, você assume o papel de Mario e tem que atravessar o Reino de Cogumelo. O jogador precisa sobreviver às forças malignas do vilão do jogo, Bowser, e resgatar a Princesa Toadstool.</p1>
+    </div>
+    <div>
+    <p2>zelda: e um jogo e rpg onde vc assume o controle do heroi link pra salvar a princes zelda   </p2>
+    </div>
+    <div>
+    <p3> god of war:Kratos, um ex-guerreiro espartano, é levado a evocar o poder dos deuses conforme embarca em uma jornada impiedosa de vingança para destruir Ares, o Deus da Guerra.</p3>
+    </div>
+
+
+        Armado com duas lâminas letais presas por correntes, Kratos precisa encarar as criaturas mais sombrias dessa mitologia — incluindo a Medusa, o Ciclope, a Hidra e muitos outros — enquanto resolve quebra-cabeças complexos em cenários de tirar o fôlego. O destino, contudo, tem outros planos para Kratos, que começa a descobrir a verdade por trás de uma traição devastadora que o mudará para sempre.</p3>
+
+</body>
+</html>
